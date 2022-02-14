@@ -1,1 +1,2 @@
-git is good and i like it
+it is good and i like it.
+yes i like too
